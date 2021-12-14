@@ -1,0 +1,16 @@
+// Binary Tree
+digraph {
+	"11dfd6ec-8b23-11eb-9e88-715fa8111be9" [label=11 color=tomato style=filled]
+	"11dfd6ed-8b23-11eb-9e88-715fa8111be9" [label=5 color=purple style=filled]
+	"11dfd6ec-8b23-11eb-9e88-715fa8111be9" -> "11dfd6ed-8b23-11eb-9e88-715fa8111be9" [label=L]
+	"11dfd6ee-8b23-11eb-9e88-715fa8111be9" [label=1 color=purple style=filled]
+	"11dfd6ed-8b23-11eb-9e88-715fa8111be9" -> "11dfd6ee-8b23-11eb-9e88-715fa8111be9" [label=L]
+	"11dfd6ef-8b23-11eb-9e88-715fa8111be9" [label=3 color=purple style=filled]
+	"11dfd6ed-8b23-11eb-9e88-715fa8111be9" -> "11dfd6ef-8b23-11eb-9e88-715fa8111be9" [label=R]
+	"11dfd6f0-8b23-11eb-9e88-715fa8111be9" [label=6 color=purple style=filled]
+	"11dfd6ec-8b23-11eb-9e88-715fa8111be9" -> "11dfd6f0-8b23-11eb-9e88-715fa8111be9" [label=R]
+	"11dfd6f1-8b23-11eb-9e88-715fa8111be9" [label=2 color=tomato style=filled]
+	"11dfd6f0-8b23-11eb-9e88-715fa8111be9" -> "11dfd6f1-8b23-11eb-9e88-715fa8111be9" [label=L]
+	"11dfd6f2-8b23-11eb-9e88-715fa8111be9" [label=4 color=tomato style=filled]
+	"11dfd6f0-8b23-11eb-9e88-715fa8111be9" -> "11dfd6f2-8b23-11eb-9e88-715fa8111be9" [label=R]
+}
